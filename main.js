@@ -1,7 +1,7 @@
-function greeting(your_name){
-    // alert(`Привет, ${your_name}`);
-    console.log(`Привет, ${your_name}`);
+function greeting(yourName) {
+    // alert(`Привет, ${yourName}`);
+    console.log(`Привет, ${yourName}`);
 }
 
-const your_name = prompt('Введите ваше имя:');
-greeting(your_name); 
+const yourName = prompt('Введите ваше имя:');
+greeting(yourName); 
